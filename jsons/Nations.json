@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Mortis' Mortuary",
-		"leaderName": "Frank",
-		"startBias": ["Desert"],
+		"name": "Starr Hub",
+		"leaderName": "R-T",
+		"startBias": ["None"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
@@ -18,12 +18,12 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [63,42,145],
-		"innerColor": [128,67,250],
+		"outerColor": [255,255,255],
+		"innerColor": [237,174,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Creatures Of The Night",
+		"uniqueName": "Welcome To Starr Park!",
 		"uniques": ["Free [Merchant Brawler] appears <upon founding a city>"],
-		"cities": ["Grim Hallow","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+		"cities": ["Town Square","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],

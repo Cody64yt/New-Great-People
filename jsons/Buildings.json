@@ -1,11 +1,10 @@
 [
 	{
-		"name": "Casino",
-		"gold": 2,
-		"culture": 2,
-		"uniqueTo": "Earthorn",
+		"name": "Gift Shop",
+		"gold": 3,
+		"uniqueTo": "Starr Hub",
 		"replaces": "Market",
-		"specialistSlots": {"Merchant": 1, "Artist": 1},
+		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"

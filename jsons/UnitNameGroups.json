@@ -1,7 +1,23 @@
 [
 
     { 
-        "name": "General",
+        "name": "Artist Brawler",
+        "unitNames": ["James","Edward"]
+    },
+    { 
+        "name": "Scientist Brawler",
+        "unitNames": ["James","Edward"]
+    },
+    { 
+        "name": "Merchant Brawler",
+        "unitNames": ["Griff"]
+    },
+    { 
+        "name": "Engineer Brawler",
+        "unitNames": ["James","Edward"]
+    },
+    { 
+        "name": "War Brawler",
         "unitNames": ["James","Edward"]
     }
 ]
