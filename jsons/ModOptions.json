@@ -2,5 +2,9 @@
     "nationsToRemove": [
         "Babylon",
         "Denmark"
+    ],
+    "unitToRemove": [
+        "Babylon",
+        "Denmark"
     ]
 }
