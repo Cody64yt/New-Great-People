@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Diplomat",
+		"name": "Great Big Loser",
 		"unitType": "Scout",
-		"uniqueTo": "Earthorn",
-		"replaces": "Scout",
-		"movement": 5,
-		"strength": 3,
-		"cost": 25,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost", "Survivalism I"],
-		"attackSound": "nonmetalhit"
+		"uniques": [
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [General] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	}
 ]
