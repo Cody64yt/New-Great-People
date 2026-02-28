@@ -4,7 +4,10 @@
         "Denmark"
     ],
     "unitToRemove": [
-        "Babylon",
-        "Denmark"
+        "Great General",
+        "Great Scienctist",
+        "Great Artist",
+        "Great Merchant",
+        "Great Engineer"
     ]
 }
