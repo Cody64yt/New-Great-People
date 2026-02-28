@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Earth",
-		"leaderName": "Larry",
+		"name": "Mortis' Mortuary",
+		"leaderName": "Frank",
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 
@@ -18,12 +18,12 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0,201,114],
-		"innerColor": [209,27,191],
-		"favoredReligion": "Islam",
+		"outerColor": [63,42,145],
+		"innerColor": [82,38,255],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Name Of Thing",
 		"uniques": ["Free [Great Big Loser] appears <upon founding a city>"],
-		"cities": ["Earthorn","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+		"cities": ["Grim Hallow","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
