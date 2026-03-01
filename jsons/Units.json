@@ -1,68 +1,61 @@
 [
 	{
-		"name": "Great Big Loser",
-		"unitType": "Scout",
-		"uniques": [
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-            "Is part of Great Person group [General]",
-            "[This Unit] gets a name from the [General] group",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Artist Brawler",
-		"unitType": "Civilian",
+		"name": "Cultural Brawler",
+		"unitType": "Sword",
+		"requiredTech": "Writing",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
-            "[This Unit] gets a name from the [Artist] group",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Scientist Brawler",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can hurry technology research",
-            "Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Is part of Great Person group [Great Person]",
-            "[This Unit] gets a name from the [Scientist] group",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Merchant Brawler",
-		"unitType": "Sword",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-            "Is part of Great Person group [Great Person]",
-            "[This Unit] gets a name from the [Merchant Brawler] group",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+            "[This Unit] gets a name from the [Cultural Brawler] group", "Uncapturable"],
 		"strength": 8,
 		"movement": 2
 	},
 	{
-		"name": "Engineer Brawler",
-		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+		"name": "Scientific Brawler",
+		"unitType": "Sword",
+		"requiredTech": "The Wheel",
+		"uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
-            "[This Unit] gets a name from the [Engineer] group",
-            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+            "[This Unit] gets a name from the [Scientific Brawler] group", "Uncapturable"],
+		"strength": 8,
 		"movement": 2
 	},
 	{
-		"name": "War Brawler",
-		"unitType": "Civilian",
+		"name": "Economic Brawler",
+		"unitType": "Sword",
+		"requiredTech": "Currency",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Economic Brawler] group", "Uncapturable"],
+		"strength": 8,
+		"movement": 2
+	},
+	{
+		"name": "Engineering Brawler",
+		"unitType": "Sword",
+		"requiredTech": "Masonry",
+		"uniques": ["Can speed up construction of a building",
+            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Engineering Brawler] group", "Uncapturable"],
+		"strength": 8,
+		"movement": 2
+	},
+	{
+		"name": "Militaristic Brawler",
+		"unitType": "Sword",
+		"requiredTech": "Bronze Working",
 		"uniques": [
             "[+15]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat <for [Land] units>",
             "Is part of Great Person group [General]",
-            "[This Unit] gets a name from the [General] group",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+            "[This Unit] gets a name from the [Militaristic Brawler] group", "Uncapturable"],
+		"strength": 8,
 		"movement": 2
 	}
 ]

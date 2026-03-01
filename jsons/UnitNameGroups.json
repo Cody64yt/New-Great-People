@@ -1,23 +1,23 @@
 [
 
     { 
-        "name": "Artist Brawler",
+        "name": "Cultural Brawler",
         "unitNames": ["James","Edward"]
     },
     { 
-        "name": "Scientist Brawler",
+        "name": "Scientific Brawler",
         "unitNames": ["James","Edward"]
     },
     { 
-        "name": "Merchant Brawler",
+        "name": "Economic Brawler",
         "unitNames": ["Griff"]
     },
     { 
-        "name": "Engineer Brawler",
+        "name": "Engineering Brawler",
         "unitNames": ["James","Edward"]
     },
     { 
-        "name": "War Brawler",
+        "name": "Militaristic Brawler",
         "unitNames": ["James","Edward"]
     }
 ]
