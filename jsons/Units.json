@@ -57,5 +57,20 @@
             "[This Unit] gets a name from the [Militaristic Brawler] group", "Uncapturable"],
 		"strength": 8,
 		"movement": 2
+	},
+	// Civ Unique
+	{
+		"name": "Gene",
+		"unitType": "Sword",
+		"requiredTech": "The Wheel",
+		"replaces": "Scientific Brawler",
+		"uniqueTo": "Babylon",
+		"uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientific Brawler] group", "Uncapturable"],
+		"strength": 8,
+		"movement": 2
 	}
 ]

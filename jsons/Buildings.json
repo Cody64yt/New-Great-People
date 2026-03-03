@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Gift Shop",
-		"gold": 3,
+		"gold": 30,
 		"uniqueTo": "Starr Hub",
 		"replaces": "Market",
 		"specialistSlots": {"Merchant": 1},
