@@ -61,7 +61,7 @@
 	// Civ Unique
 	{
 		"name": "Gene",
-		"unitType": "Sword",
+		"unitType": "Archery",
 		"requiredTech": "The Wheel",
 		"replaces": "Scientific Brawler",
 		"uniqueTo": "Babylon",
@@ -70,7 +70,21 @@
             "Can instantly construct a [Academy] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
             "[This Unit] gets a name from the [Scientific Brawler] group", "Uncapturable"],
-		"strength": 8,
+		"rangedstrength": 10,
+		"movement": 2
+	},
+	{
+		"name": "Tara",
+		"unitType": "Sword",
+		"requiredTech": "Writing",
+		"replaces": "Cultural Brawler",
+		"uniqueTo": "Babylon",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Cultural Brawler] group", "Uncapturable"],
+		"strength": 9,
 		"movement": 2
 	}
 ]
